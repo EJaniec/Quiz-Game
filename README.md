@@ -1,7 +1,7 @@
 <h1>Quiz Game</h1>
 
 <h2>Description</h2>
-This Python file is a simple interactive quiz game that allows users to test their knowledge on computer component topics. The game presents a series of multiple-choice questions, one at a time, and prompts the player to select the correct answer. It then provides immediate feedback (Correct or Incorrect), indicating whether the answer is correct or not and keeps a score tally. At the end the player is given the amount of correct answers as well as a completion percentage. 
+This Python file is a simple interactive quiz game that allows users to test their knowledge on computer component topics. The game presents a series of multiple-choice questions, one at a time, and prompts the player to select the correct answer. It then provides immediate feedback, indicating whether the answer is correct or not and keeps a score tally. At the end the player is given the amount of correct answers as well as a completion percentage. 
 <br />
 
 
